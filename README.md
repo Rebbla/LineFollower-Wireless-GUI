@@ -26,3 +26,16 @@ Repositori ini berisikan file program pengerjaan **Line Follower With Control Gu
 - 2 Motor DC + Motor Driver (L298N/L9110S)
 - 5 Sensor Garis (misal TCRT5000)
 - Kabel jumper & power supply
+
+
+## Setup
+Sebelum memulai program alangkah baiknya install terlebih dahulu
+
+```
+pip Install ttkbootstrap
+```
+Sehabis itu install dibawah ini :
+```
+pip install socket
+```
+Paste saja di Terminal kamu
