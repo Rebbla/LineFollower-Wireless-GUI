@@ -39,3 +39,7 @@ Sehabis itu install dibawah ini :
 pip install socket
 ```
 Paste saja di Terminal kamu
+
+
+## Credits :
+by Filza Khairi Rahmansyah 
